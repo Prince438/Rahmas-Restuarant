@@ -1,0 +1,29 @@
+body {background-color: gray; 
+    background: url(images/background.jpg); 
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
+} 
+
+#mhead {text-align: center;
+background-color: rgb(250, 236, 242); 
+display: block; 
+color: rgb(2, 0, 2);}
+
+
+a:link, a:visited {text-decoration: none; 
+    color: rgb(250, 1, 1); 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+
+#nav li {list-style: none; 
+    display: inline; 
+    text-align: center; 
+    background-color: rgb(255, 255, 93); 
+    border-radius: 15%; 
+     }
+.bor {border-radius: 40px;
+}
+h3 {color:white;
+}
