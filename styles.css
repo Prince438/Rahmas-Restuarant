@@ -5,13 +5,13 @@ background-size: cover;
 background-position: center;
 background-attachment: fixed;
 } 
-
+/*-- HEAD --*/
 #mhead {text-align: center;
 background-color: rgb(250, 236, 242); 
 display: block; 
 color: rgb(2, 0, 2);}
 
-
+/*-- NAV BAR --*/
 a:link, a:visited {text-decoration: none; 
     color: rgb(250, 1, 1); 
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
@@ -23,7 +23,10 @@ a:link, a:visited {text-decoration: none;
     background-color: rgb(255, 255, 93); 
     border-radius: 15%; 
      }
+/*-- MENU IMAGES --*/
 .bor {border-radius: 40px;
 }
 h3 {color:white;
+}
+.wcol:link, .wcol:visited, .wcol {color:#faeb19
 }
